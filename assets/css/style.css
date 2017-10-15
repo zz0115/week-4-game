@@ -1,0 +1,39 @@
+body {
+	background-color: orange;
+	text-align: center;
+}
+
+h1 {
+	background-color: grey;
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px 0 10px 0;
+	margin-bottom: 10px;
+}
+
+p {
+	color: green;
+	font-size: 20px;
+	line-height: 20px;
+}
+
+img {
+	margin-top: 20px;
+	margin-right: 10px;
+	width: 100px;
+	height: 100px;
+}
+
+#totalScore {
+	margin-top: 20px;
+}
+
+#targetNumber {
+	margin-top: 30px;
+	font-weight: bold;
+}
+
+#result {
+	margin-top: 10px;
+}
